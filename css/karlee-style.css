@@ -1,0 +1,50 @@
+/** Karlee Adams' stylesheet**/
+* {
+	margin: 0px auto;
+	padding: 0;
+	width: 900px;
+	
+}
+
+header {
+	color: #E7E9F0;
+	background-color: #422335;
+	font-family: 'Over the Rainbow', sans-serif;
+}
+
+header a {
+	text-align: left;
+	color: #E7E9F0;
+	text-decoration: none;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-left: 15px;
+
+}
+
+a:hover {
+	color: #CC4452;
+}
+h1, h2, h4, p {
+	text-align: center;
+}
+
+h2 {
+	font-size: 17px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	padding-bottom: 5px;
+}
+
+h4 {
+	font-family: 'Over the Rainbow', sans-serif;
+	color: #CC4452;
+	font-size: 22px;
+	width: 700px;
+}
+
+p {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 18px;
+	width: 700px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
